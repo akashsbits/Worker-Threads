@@ -1,0 +1,11 @@
+{
+  "name": "worker-threads",
+  "version": "1.0.0",
+  "description": "Achieving parallelism in Node.js through worker_threads",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Akash Srivastava",
+  "license": "ISC"
+}
