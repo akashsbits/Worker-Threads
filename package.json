@@ -4,7 +4,7 @@
   "description": "Achieving parallelism in Node.js through worker_threads",
   "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node index.js"
   },
   "author": "Akash Srivastava",
   "license": "ISC"
